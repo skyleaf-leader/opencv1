@@ -4,7 +4,6 @@ Anaconda Promptで以下のプログラムを実行
 
 import cv2
 
-# VideoCapture オブジェクトを取得します
 capture = cv2.VideoCapture(0)
 
 while(True):
